@@ -6,8 +6,7 @@ This algorithm is an implementation based on the [article](http://ieeexplore.iee
 *¹University of Guelph, Guelph Canada*  
 *²Dipartimento di Scienze Mediche - Università di Cagliari, Italy*
 
-![src](https://github.com/RobertoDebarba/mammograms-microcalcifications-detection/blob/master/sample/src.png)
-![result](https://github.com/RobertoDebarba/mammograms-microcalcifications-detection/blob/master/sample/result.png)
+<img src="https://github.com/RobertoDebarba/mammograms-microcalcifications-detection/blob/master/sample/src.png" height="500" width="auto"> <img src="https://github.com/RobertoDebarba/mammograms-microcalcifications-detection/blob/master/sample/result.png" height="500" width="auto">
 
 ## How to run
 
