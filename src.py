@@ -1,6 +1,6 @@
 from cv2 import *
 
-IMG_SRC = '/home/robertodebarba/mama.png'
+IMG_SRC = 'sample/src.png'
 
 if __name__ == '__main__':
     src = imread(IMG_SRC)
